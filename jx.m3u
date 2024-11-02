@@ -30,7 +30,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",河南梨园
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1, NewTV搏击_(720p)
+#EXTINF:-1 , NewTV搏击_(720p)
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
 #EXTINF:-1 ,NewTV精品电影_(1080p)
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
@@ -46,7 +46,7 @@ http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index
 http://stream.appwuhan.com/6tzb/sd/live.m3u8
 #EXTINF:-1 ,永新电视一套_(576p)
 http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8
-#EXTINF:-1  永新电视三套_(576p)
+ #EXTINF:-1 ,永新电视三套_(576p)
 http://jxyx.chinashadt.com:2036/live/1004.stream/playlist.m3u8
 #EXTINF:-1 ,永新电视二套_(576p)
 http://jxyx.chinashadt.com:2036/live/1003.stream/playlist.m3u8
