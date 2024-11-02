@@ -1,9 +1,4 @@
-#EXTM3U
-#EXTINF:-1 ,CCTV 1
-http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-#EXTINF:-1 ,CCTV 2
-http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-#EXTINF:-1 ,CCTV 3
-http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-#EXTINF:-1 ,CCTV 4
-http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV 1,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+CCTV 2,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+CCTV 3,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+CCTV 4,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
