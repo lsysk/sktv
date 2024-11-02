@@ -19,4 +19,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225750/index.m3u8
 #EXTINF:-1 ,CCTV-9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-
+#EXTINF:-1,cctv10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,jxCC
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
