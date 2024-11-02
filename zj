@@ -1,4 +1,26 @@
-CCTV 1,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTM3U
+#EXTINF:-1 ,CCTV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 ,CCTV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 ,CCTV-3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 ,CCTV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225590/index.m3u8
+#EXTINF:-1 ,CCTV-5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/index.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 ,CCTV-6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 ,CCTV-7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225750/index.m3u8
+#EXTINF:-1 ,CCTV-9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 ,CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/CCTV 1,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV 3,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 CCTV 4,http://111.0.27.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
