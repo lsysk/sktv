@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
@@ -137,9 +137,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225775/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225679/index.m3u8
 #EXTINF:-1 tvg-name="CCTV中视购物" tvg-logo="https://live.fanmingming.com/tv/CCTV中视购物.png",CCTV中视购物
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225976/index.m3u8
-#EXTINF:-1 tvg-name="中国教育1 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls" 
-tvg-logo="https://live.fanmingming.com/tv/中国教育1 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls.png",中国教育1 
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png",中国教育4
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-name="中国教育早教" tvg-logo="https://live.fanmingming.com/tv/中国教育早教.png",中国教育早教
