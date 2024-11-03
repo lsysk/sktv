@@ -35,8 +35,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",河南梨园
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1,七彩戏剧
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
+
 
 #EXTINF:-1 ,CHC高清电影
 http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
@@ -54,13 +53,25 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="家庭影院_(1080p)" tvg-logo="https://live.fanmingming.com/tv/家庭影院_(1080p).png",家庭影院_(1080p)
 http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.
-#EXTINF:-1 ,高清HD大众影视
-http://itv.ahau.edu.cn/hls/hls75a27.m3u8
-#EXTINF:-1 ,高清HD家庭剧场
-http://itv.ahau.edu.cn/hls/hls75a28.m3u8
-#EXTINF:-1 ,高清HD家庭影院
-http://itv.ahau.edu.cn/hls/hls75a29.m3u8
 
+#EXTINF:-1 ,家庭影院
+http://itv.ahau.edu.cn/hls/hls39.m3u8
+#EXTINF:-1 ,怀旧电影
+http://itv.ahau.edu.cn/hls/hls48.m3u8
+#EXTINF:-1 ,喜剧电影
+http://itv.ahau.edu.cn/hls/hls147.m3u8
+#EXTINF:-1 ,劲爆电影
+http://itv.ahau.edu.cn/hls/hls155.m3u8
+#EXTINF:-1 ,经典剧场
+http://itv.ahau.edu.cn/hls/hls89.m3u8
+#EXTINF:-1 ,生活剧场
+http://itv.ahau.edu.cn/hls/hls37.m3u8
+#EXTINF:-1 ,北方商务
+http://itv.ahau.edu.cn/hls/hls8.m3u8
+#EXTINF:-1 ,经典剧场
+http://itv.ahau.edu.cn/hls/hls89.m3u8
+#EXTINF:-1 ,生活剧场
+http://itv.ahau.edu.cn/hls/hls37.m3u8
 #EXTINF:-1 ,超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 ,东北热剧
@@ -89,7 +100,23 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 ,精彩搏击
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-
+#EXTINF:-1 ,家庭理财
+http://itv.ahau.edu.cn/hls/hls19.m3u8
+#EXTINF:-1 ,家庭理财
+#EXTINF:-1 ,国学频道
+http://itv.ahau.edu.cn/hls/hls100.m3u8
+#EXTINF:-1 ,英语辅导
+http://itv.ahau.edu.cn/hls/hls107.m3u8
+#EXTINF:-1 ,凤凰中文
+http://itv.ahau.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://itv.ahau.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 ,凤凰电影
+http://itv.ahau.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 ,星空卫视
+http://itv.ahau.edu.cn/hls/startv.m3u8
+#EXTINF:-1 ,东至影视
+http://itv.ahau.edu.cn:82/live/yingshi/playlist.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
@@ -243,11 +270,28 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png",江西都市
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,爱映画高清
-http://itv.ahau.edu.cn/hls/hls78a46.m3u8
-#EXTINF:-1 ,晴天动画馆高清
-http://itv.ahau.edu.cn/hls/hls78a47.m3u8
-#EXTINF:-1 ,时光剧场高清
-http://itv.ahau.edu.cn/hls/hls78a48.m3u8
-#EXTINF:-1 ,熊猫频道高清
-http://itv.ahau.edu.cn/hls/hls148.m3u8
+#EXTINF:-1 ,第一剧场
+http://itv.ahau.edu.cn/hls/dyjctv.m3u8
+#EXTINF:-1 ,风云剧场
+http://itv.ahau.edu.cn/hls/fyjctv.m3u8
+#EXTINF:-1 ,CETV-1
+http://itv.ahau.edu.cn/hls/cetv1.m3u8
+#EXTINF:-1 ,CETV-3
+http://itv.ahau.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1 ,CETV-4
+http://itv.ahau.edu.cn/hls/cetv4.m3u8
+#EXTINF:-1 ,山东教育
+http://itv.ahau.edu.cn/hls/sdetv.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://itv.ahau.edu.cn/hls/jykttv.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://itv.ahau.edu.cn/hls/hls158.m3u8
+#EXTINF:-1 ,优漫卡通
+http://itv.ahau.edu.cn/hls/hls159.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://itv.ahau.edu.cn/hls/hls157.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://itv.ahau.edu.cn/hls/hls103.m3u8
+#EXTINF:-1 ,少儿动画
+http://itv.ahau.edu.cn/hls/hls104.m3u8
+
