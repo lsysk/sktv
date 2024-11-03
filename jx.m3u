@@ -243,4 +243,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png",江西都市
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
-
+#EXTINF:-1 ,爱映画高清
+http://itv.ahau.edu.cn/hls/hls78a46.m3u8
+#EXTINF:-1 ,晴天动画馆高清
+http://itv.ahau.edu.cn/hls/hls78a47.m3u8
+#EXTINF:-1 ,时光剧场高清
+http://itv.ahau.edu.cn/hls/hls78a48.m3u8
+#EXTINF:-1 ,熊猫频道高清
+http://itv.ahau.edu.cn/hls/hls148.m3u8
