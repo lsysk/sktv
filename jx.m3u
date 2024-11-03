@@ -40,8 +40,7 @@ http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid
 #EXTINF:-1 ,CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 
-#EXTINF:-1 tvg-name="NewTV精品电影_(1080p)" tvg-logo="https://live.fanmingming.com/tv/NewTV精品电影_(1080p).png",NewTV精品电影_(1080p)
-http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+
 #EXTINF:-1 tvg-name="NewTV超级电影_(1080p)" tvg-logo="https://live.fanmingming.com/tv/NewTV超级电影_(1080p).png",NewTV超级电影_(1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1 tvg-name="动作电影_(1080p)" tvg-logo="https://live.fanmingming.com/tv/动作电影_(1080p).png",动作电影_(1080p)
