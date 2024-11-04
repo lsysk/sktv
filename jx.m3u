@@ -35,88 +35,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",河南梨园
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
 
-
-
-#EXTINF:-1 ,CHC高清电影
-http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-#EXTINF:-1,CHC动作电影
-http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-#EXTINF:-1 ,CHC家庭影院
-http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-
-
-#EXTINF:-1 tvg-name="NewTV超级电影_(1080p)" tvg-logo="https://live.fanmingming.com/tv/NewTV超级电影_(1080p).png",NewTV超级电影_(1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 ,超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="动作电影_(1080p)" tvg-logo="https://live.fanmingming.com/tv/动作电影_(1080p).png",动作电影_(1080p)
-http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="家庭影院_(1080p)" tvg-logo="https://live.fanmingming.com/tv/家庭影院_(1080p).png",家庭影院_(1080p)
-http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.
-
-#EXTINF:-1 ,家庭影院
-http://itv.ahau.edu.cn/hls/hls39.m3u8
-#EXTINF:-1 ,怀旧电影
-http://itv.ahau.edu.cn/hls/hls48.m3u8
-#EXTINF:-1 ,喜剧电影
-http://itv.ahau.edu.cn/hls/hls147.m3u8
-#EXTINF:-1 ,劲爆电影
-http://itv.ahau.edu.cn/hls/hls155.m3u8
-#EXTINF:-1 ,经典剧场
-http://itv.ahau.edu.cn/hls/hls89.m3u8
-#EXTINF:-1 ,生活剧场
-http://itv.ahau.edu.cn/hls/hls37.m3u8
-#EXTINF:-1 ,北方商务
-http://itv.ahau.edu.cn/hls/hls8.m3u8
-#EXTINF:-1 ,经典剧场
-http://itv.ahau.edu.cn/hls/hls89.m3u8
-#EXTINF:-1 ,生活剧场
-http://itv.ahau.edu.cn/hls/hls37.m3u8
-#EXTINF:-1 ,超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,健康有约
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,精品体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,精彩搏击
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 ,家庭理财
-http://itv.ahau.edu.cn/hls/hls19.m3u8
-#EXTINF:-1 ,家庭理财
-#EXTINF:-1 ,国学频道
-http://itv.ahau.edu.cn/hls/hls100.m3u8
-#EXTINF:-1 ,英语辅导
-http://itv.ahau.edu.cn/hls/hls107.m3u8
-#EXTINF:-1 ,凤凰中文
-http://itv.ahau.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://itv.ahau.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 ,凤凰电影
-http://itv.ahau.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 ,星空卫视
-http://itv.ahau.edu.cn/hls/startv.m3u8
-#EXTINF:-1 ,东至影视
-http://itv.ahau.edu.cn:82/live/yingshi/playlist.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
@@ -294,4 +212,78 @@ http://itv.ahau.edu.cn/hls/hls157.m3u8
 http://itv.ahau.edu.cn/hls/hls103.m3u8
 #EXTINF:-1 ,少儿动画
 http://itv.ahau.edu.cn/hls/hls104.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+#EXTINF:-1,CHC动作电影
+http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+#EXTINF:-1 ,CHC家庭影院
+http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 
+
+#EXTINF:-1 tvg-name="NewTV超级电影_(1080p)" tvg-logo="https://live.fanmingming.com/tv/NewTV超级电影_(1080p).png",NewTV超级电影_(1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 ,超级电影
+http://ottrrs.hl.chinamobile
+#EXTINF:-1 ,家庭影院
+http://itv.ahau.edu.cn/hls/hls39.m3u8
+#EXTINF:-1 ,怀旧电影
+http://itv.ahau.edu.cn/hls/hls48.m3u8
+#EXTINF:-1 ,喜剧电影
+http://itv.ahau.edu.cn/hls/hls147.m3u8
+#EXTINF:-1 ,劲爆电影
+http://itv.ahau.edu.cn/hls/hls155.m3u8
+#EXTINF:-1 ,经典剧场
+http://itv.ahau.edu.cn/hls/hls89.m3u8
+#EXTINF:-1 ,生活剧场
+http://itv.ahau.edu.cn/hls/hls37.m3u8
+#EXTINF:-1 ,北方商务
+http://itv.ahau.edu.cn/hls/hls8.m3u8
+#EXTINF:-1 ,经典剧场
+http://itv.ahau.edu.cn/hls/hls89.m3u8
+#EXTINF:-1 ,生活剧场
+http://itv.ahau.edu.cn/hls/hls37.m3u8
+#EXTINF:-1 ,超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 ,东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 ,欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 ,古装剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 ,惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 ,金牌综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 ,爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 ,精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 ,精品纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 ,健康有约
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 ,精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 ,军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 ,家庭剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,精彩搏击
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 ,家庭理财
+http://itv.ahau.edu.cn/hls/hls19.m3u8
+#EXTINF:-1 ,家庭理财
+#EXTINF:-1 ,国学频道
+http://itv.ahau.edu.cn/hls/hls100.m3u8
+#EXTINF:-1 ,英语辅导
+http://itv.ahau.edu.cn/hls/hls107.m3u8
+#EXTINF:-1 ,凤凰中文
+http://itv.ahau.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://itv.ahau.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 ,凤凰电影
+http://itv.ahau.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 ,星空卫视
+http://itv.ahau.edu.cn/hls/startv.m3u8
+#EXTINF:-1 ,东至影视
+http://itv.ahau.edu.cn:82/live/yingshi/playlist.m3u8
