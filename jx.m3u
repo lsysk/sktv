@@ -197,8 +197,53 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 #EXTINF:-1 ,CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-
-
+#EXTINF:-1, 黑莓电影http://39.135.133.157/wh7f454c46tw2966956253_-1957643596/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?icpid=88888888&RTS=1730707283&from=23&hms_devid=1247&online=1730707283&vqe=3
+#EXTINF:-1,超级电影
+http://39.135.133.157/wh7f454c46tw3069170165_-1244140173/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?icpid=88888888&RTS=1730707385&from=23&hms_devid=1247&online=1730707385&vqe=3
+#EXTINF:-1 ,欧美大片1,http://epg.112114.xyz/douyu/20415
+#EXTINF:-1,欧美大片2,http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1,粤语电影2,http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1,粤语电影3,http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1,douyu8
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1,douyu9
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1,douyu15
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1,douyu19
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1,douyu20
+http://epg.112114.xyz/douyu/52787
+#EXTINF:-1,douyu24
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1,douyu25
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1,douyu28
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1,douyu44
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1,林正英
+http://epg.112114.xyz/douyu/218859
+#EXTINF:-1,欧美大片1,
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1,欧美大片2
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1,欧美大片3
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1,粤语电影2
+http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1,粤语电影3
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1,贝爷影厅http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC动作电影.png" group-title="数字高清",CHC动作电影
+http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC家庭影院.png" group-title="数字高清",CHC家庭影院
+http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.png" group-title="数字高清",CHC影迷电影
+http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.png" group-title="数字高清",CHC影迷电影
+http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-1,贝爷影厅,http://epg.112114.xyz/douyu/252802
 #EXTINF:-1 tvg-name="NewTV超级电影_(1080p)" tvg-logo="https://live.fanmingming.com/tv/NewTV超级电影_(1080p).png",NewTV超级电影_(1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 
@@ -228,6 +273,34 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 ,家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,浙江_Ⅰ_绍兴影视_(720p)
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 ,新昌休闲影视_(1080p)_[Not_24/7]
+https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+
+
+
+#EXTINF:-1 ,江宁电视台综合频道
+https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+#EXTINF:-1 ,浙江电视台影视娱乐频道
+http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 ,绍兴文化影视频道
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 ,上虞文化影视频道
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 ,东阳影视生活频道
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 ,石景山电视台
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 ,菏泽三套影视频道
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 ,烟台影视频道
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 ,哈尔滨影视频道
+http://stream.hrbtv.net/yspd/sd/live.m3u8
+
+#EXTINF:-1 ,南宁影视娱乐频道
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 ,精彩搏击
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 
