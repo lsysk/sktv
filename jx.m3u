@@ -206,7 +206,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="" group-title="儿童频道", 黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1group-title="儿童频道",黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225744/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 group-title="电影频道",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXT
@@ -429,5 +429,5 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="财经频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 
-#EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://epg.112114.xyz/logo/直播中国.png" group-title="地方",直播中国
+#EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://epg.112114.xyz/logo/直播中国.png" group-title="地方频道",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
