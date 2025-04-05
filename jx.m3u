@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://m3u.ibert.me/epg/112114_xyz.xml"
-#EXTINF:-1 group-title="中央频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png"group-title="中央频道",CCTV1
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 group-title="中央频道",CCTV2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
