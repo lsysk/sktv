@@ -30,9 +30,9 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF：-1tvg-name="CCTV15"tvg-logo="https://live.fanmingming.com/tv/CCTV15.png"group-title="中央频道"，CCTV15
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF：-1组标题="央视频道"，CCTV-17
+#EXTINF：-1 group-title="中央频道"，CCTV-17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF：-1组标题="卫视频道"，江西卫视
+#EXTINF：  group-title="卫视频道"，江西卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
 #EXTINF：-1tvg-name="河南梨园"TVG-logo="https://live.fanmingming.com/tv/河南梨园.PNG"group-title="卫视频道"，梨园频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
@@ -175,9 +175,9 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=
 #EXTINF：-1tvg-name="江西都市"tvg-logo="https://live.fanmingming.com/tv/江西都市.png"group-title="江西频道"，江西都市
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
 
-#EXTINF：-1组标题="电影频道"，黑莓电影
+#EXTINF：-1  group-title="电影频道"，黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF：-1组标题="电影频道"，超级电影
+#EXTINF：-1   group-title="电影频道"，超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF：-1tvg-name="哈哈炫动"TVG-logo="https://live.fanmingming.com/tv/上海哈哈炫动.PNG"group-title="儿童频道"，哈哈炫动
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/index.m3u8
@@ -189,7 +189,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF：-1tvg-name="黑莓动画"tvg-id="黑莓动画"tvg-logo=""group-title="儿童频道"，黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF：-1组标题="儿童频道"，黑莓动画
+#EXTINF：-1  group-title="儿童频道"，黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF：-1tvg-name="黑龙江少儿"tvg-id="黑龙江少儿"tvg-logo=""group-title="儿童频道"，黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
@@ -217,53 +217,52 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
 
 
-#EXTINF：-1组标题="电影频道"，动作电影
+#EXTINF：-1  group-title="电影频道"，动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXT
-#EXTINF：-1组标题="电影频道"，CHC动作电影
+#EXTINF：-1  group-title="电影频道"，CHC动作电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF：-1tvg-id="CHC家庭影院"TVG-name="CHC家庭影院"TVG-logo="https://live.kakaxi-1.ink/LOGO/CHC家庭影院.PNG"group-title="电影频道"，CHC家庭影院
+#EXTINF：-1 tvg-id="CHC家庭影院"TVG-name="CHC家庭影院"TVG-logo="https://live.kakaxi-1.ink/LOGO/CHC家庭影院.PNG"group-title="电影频道"，CHC家庭影院
 http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF：-1tvg-id="CHC影迷电影"TVG-name="CHC影迷电影"TVG-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.PNG"group-title="电影频道"，CHC影迷电影
+#EXTINF：-1  tvg-id="CHC影迷电影"TVG-name="CHC影迷电影"TVG-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.PNG"group-title="电影频道"，CHC影迷电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF：-1tvg-id="CHC影迷电影"TVG-name="CHC影迷电影"TVG-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.PNG"group-title="电影频道"，CHC影迷电影
+#EXTINF：-1 tvg-id="CHC影迷电影"TVG-name="CHC影迷电影"TVG-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.PNG"group-title="电影频道"，CHC影迷电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF：-1tvg-name="凤凰电影"tvg-id="凤凰电影"TVG-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png"组标题="电影频道"，凤凰电影
+#EXTINF：-1 tvg-name="凤凰电影"tvg-id="凤凰电影"TVG-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png"组标题="电影频道"，凤凰电影
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 #EXTINF：-1tvg-name="东森电影"tvg-id="东森电影"tvg-logo=""group-title="电影频道"，东森电影
 http://ali.hlspull.yximgs.com/live/4df7ad1ab9d3a3cf9053d3134f190ff6.flv
-#EXTINF：-1电视节目名称="AMC电影"电视节目标识="AMC电影"电视节目标识="https://gitee.com/suxuang/TVlogo/raw/main/img/AMCMovies.png"组标题="电影频道"，AMC电影
-http://61.221.215.25:8800/hls/43/index.m3u8
+
 #EXTINF：-1tvg-name="星空卫视"tvg-id="星空卫视"TVG-logo="https://live.fanmingming.cn/tv/星空卫视.PNG"group-title="电影频道"，星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF：-1tvg-name="星光影视"tvg-id="星光影视"TVG-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.PNG"group-title="电影频道"，星光影视
+#EXTINF：-1 tvg-name="星光影视"tvg-id="星光影视"TVG-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.PNG"group-title="电影频道"，星光影视
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF：-1tvg-name="美亚电影"tvg-id="美亚电影"tvg-logo=""group-title="电影频道"，美亚电影
+#EXTINF：-1 tvg-name="美亚电影"tvg-id="美亚电影"tvg-logo=""group-title="电影频道"，美亚电影
 http://ali.hlspull.yximgs.com/live/a5b1cad2ce82d2ce99ca6662785446d1.flv
-#EXTINF：-1tvg-name="西部电影"tvg-id="西部电影"tvg-logo=""group-title="电影频道"，西部电影
+#EXTINF：-1 tvg-name="西部电影"tvg-id="西部电影"tvg-logo=""group-title="电影频道"，西部电影
 http://61.150.67.62:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF：-1tvg-name="黑龙江影视"tvg-id="黑龙江影视"tvg-logo=""group-title="电影频道"，黑龙江影视
-#EXTINF：-1电视名称="新电视超级电影_(1080p)"tvg-logo="https://live.fanmingming.com/tv/NewTV超级电影_(1080p).png"group-title="电影频道"，NewTV超级电影_(1080p)
+#EXTINF：-1 tvg-name="黑龙江影视"tvg-id="黑龙江影视"tvg-logo=""group-title="电影频道"，黑龙江影视
+#EXTINF：-1 group-title="电影频道"，NewTV超级电影_(1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 
-#EXTINF：-1组标题="电视剧频道"，超级电视剧
+#EXTINF：-1  group-title="电视剧频道"，超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF：-1组标题="电视剧频道"，东北热剧
+#EXTINF：-1   group-title="电视剧频道"，东北热剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF：-1组标题="电视剧频道"，欢乐剧场
+#EXTINF：-1  group-title="电视剧频道"，欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF：-1组标题="电视剧频道"，古装剧场
+#EXTINF：-1  group-title="电视剧频道"，古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF：-1组标题="电视剧频道"，惊悚悬疑
+#EXTINF：-1  group-title="电视剧频道"，惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF：-1组标题="综艺综合"，金牌综艺
+#EXTINF：-1  group-title="综艺综合"，金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF：-1组标题="电视剧频道"，爱情喜剧
+#EXTINF：-1  group-title="电视剧频道"，爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF：-1组标题="电视剧频道"，精品大剧
+#EXTINF：-1  group-title="电视剧频道"，精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF：-1组标题="综艺综合"，精品纪录
+#EXTINF：-1 group-title="综艺综合"，精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="综艺综合",健康有约
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
